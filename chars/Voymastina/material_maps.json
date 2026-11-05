@@ -1,3 +1,16 @@
 {
-    "B_body_d.png": "v01/Textures/normalmap/B_body_n.png"
+    "B_body_d.png": {
+        "normal": "v01/Textures/normalmap/B_body_n.png",
+        "rmo": "v01/Textures/normalmap/B_body_rmo_orm.png"
+    },
+    "c_VoymastinaDorm_slg_cloth_d.png": {
+        "normal": "v01/Textures/normalmap/c_VoymastinaDorm_body_n.png"
+    },
+    "c_VoymastinaSSR01_slg_cloth1_d.png": {
+        "normal": "v01/Textures/normalmap/c_GrozaSR0102_cloth_n.png",
+        "rmo": "v01/Textures/normalmap/c_grozasr0102_cloth_rmo_06_13_2025_orm.png"
+    },
+    "c_grozadorm_body_da.png": {
+        "rmo": "v01/Textures/normalmap/c_grozadorm_body_rmo_06_13_2025_orm.png"
+    }
 }
