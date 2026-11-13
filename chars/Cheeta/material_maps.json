@@ -1,8 +1,8 @@
 {
   "c_CheetaSR01_slg_cloth01_d.png": {
-    "normal": "v02/Textures/normalmap/c_CheetaSR01_slg_cloth01_n.png"
+    "normal": "Textures/normalmap/c_CheetaSR01_slg_cloth01_n.png"
   },
   "c_CheetaSR01_slg_cloth02_d.png": {
-    "normal": "v02/Textures/normalmap/c_CheetaSR01_slg_cloth02_n.png"
+    "normal": "Textures/normalmap/c_CheetaSR01_slg_cloth02_n.png"
   }
 }
